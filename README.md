@@ -6,7 +6,7 @@ Run make to compile the project.
 ```
 make
 ```
-Open directory with resources ⇣
+Open directory with resources.
 ```
 cd assets
 ```
